@@ -1,5 +1,4 @@
 **Software Developer — Back-end & Full Stack**
-Brasília, Brazil
 ---
 
 ## Experience
