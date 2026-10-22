@@ -15,7 +15,6 @@ Brasília, Brazil
   **Puma** — Scrum Master
 *2 years* · [Repository](https://github.com/yourusername/puma)
 
-- [One sentence: what Puma is and who it serves.]
 - Led the Scrum cycle: sprint planning, daily stand-ups, sprint reviews and retrospectives.
 - Worked with the Product Owner to refine and prioritize the product backlog.
 - Removed impediments and protected the team's focus during each sprint.
