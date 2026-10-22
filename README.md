@@ -1,5 +1,3 @@
-# Luis Guilherme Borges
-
 **Software Developer — Back-end & Full Stack**
 Brasília, Brazil
 ---
