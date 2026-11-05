@@ -1,4 +1,4 @@
-**Software Developer — Back-end & Full Stack**
+**Software Engineer — **
 ---
 
 ## Experience
@@ -21,7 +21,7 @@
 
 ---
 
-## Selected Work
+## Personal Projects
 
 ### GuildHall
 
